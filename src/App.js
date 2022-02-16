@@ -1,6 +1,3 @@
-import cors from "cors";
-import axios from "axios";
-import { useEffect } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import BundesligaTable from "./components/BundesligaTable";
